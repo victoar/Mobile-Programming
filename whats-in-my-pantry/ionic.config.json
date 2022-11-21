@@ -1,0 +1,7 @@
+{
+  "name": "What's in my pantry?",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
